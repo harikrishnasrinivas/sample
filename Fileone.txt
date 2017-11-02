@@ -1,1 +1,2 @@
-Sample file one edited edited from source
+Sample file one edited
+added new line and changed from local
